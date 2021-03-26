@@ -14,5 +14,3 @@ burger.onclick = function()
             }
             
         }
-
-burger.onclick();
